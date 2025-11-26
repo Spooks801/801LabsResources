@@ -1,4 +1,4 @@
-### Wargames & Terminal Skills
+# Wargames & Terminal Skills
 
 [← Back to Main Index](../README.md)
 
