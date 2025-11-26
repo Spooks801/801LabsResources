@@ -1,4 +1,7 @@
-### Blue Team & System Hardening
+# Blue Team & System Hardening
+
+[← Back to Main Index](../README.md)
+
 *Resources focused on defense, incident response, and securing servers (Blue Team).*
 
 * **[Sourque's Linux Hardening](https://sourque.com/blog/securing-a-linux-server/)** - A comprehensive guide on securing Linux servers for defense competitions.
