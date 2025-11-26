@@ -1,3 +1,6 @@
+## 801 Labs Community Resources
+Thanks for checking out the community resources! If you've got a resource that's worth sharing please fork the repository, make your change, and make a pull request back to this repository. 
+
 ### Table of Contents
 1. [Comprehensive Learning & CTF Platforms](./resources/comp-learn-ctf-plat.md)
 2. [Wargames & Terminal Skills](./resources/wargames-terminal.md)
