@@ -3,19 +3,13 @@
 2. [Wargames & Terminal Skills](./resources/wargames-terminal.md)
 3. [Blue Team & System Hardening](./resources/Blue-Team-System-Hardening.md)
 4. [Web Application Security](./resources/Web-Application-Security.md)
-5. [Reverse Engineering & Binary Exploitation](#5-reverse-engineering--binary-exploitation)
+5. [Reverse Engineering & Binary Exploitation](./resources/Reverse-Engineering-Binary-Exploitation.md)
 6. [Cryptography](#6-cryptography)
 7. [Vulnerable VMs & Offline Labs](#7-vulnerable-vms--offline-labs)
 8. [Repositories, Aggregators & Frameworks](#8-repositories-aggregators--frameworks)
 9. [Communities](#9-communities)
 
 ---
-
-### 6. Cryptography
-*Pure math and code-breaking challenges.*
-
-* **[CryptoHack](https://cryptohack.org/)** - A fun, interactive platform for learning modern cryptography.
-* **[CryptoPals](https://cryptopals.com/)** - The "Matasano Crypto Challenges"; essential for understanding crypto implementation failures.
 
 ### 7. Vulnerable VMs & Offline Labs
 *Machines to download and run locally for isolated practice.*
