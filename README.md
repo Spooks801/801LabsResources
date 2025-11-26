@@ -11,4 +11,5 @@ Thanks for checking out the community resources! If you're not already apart of 
 7. [Vulnerable VMs & Offline Labs](./resources/Vulnerable-VMs-Offline-Labs.md)
 8. [Repositories, Aggregators & Frameworks](./resources/Repositories-Aggregators-Frameworks.md)
 9. [Forensics](./resources/forensics.md)
+10. [RF Hacking Resources](./resource/rf-hacking.md)
 11. [Communities](./resources/communities.md)
