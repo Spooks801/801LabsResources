@@ -1,5 +1,5 @@
 ### Table of Contents
-1. [Comprehensive Learning & CTF Platforms](https://github.com/Cade-Bray/801LabsResources/blob/main/resources/Comprehensive%20Learning%20%26%20CTF%20Platforms.md#comprehensive-learning--ctf-platforms)
+1. [Comprehensive Learning & CTF Platforms](./resources/comp-learn-ctf-plat.md)
 2. [Wargames & Terminal Skills](./resources/wargames-terminal.md)
 3. [Blue Team & System Hardening](#3-blue-team--system-hardening)
 4. [Web Application Security](#4-web-application-security)
