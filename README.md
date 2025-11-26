@@ -2,7 +2,7 @@
 1. [Comprehensive Learning & CTF Platforms](./resources/comp-learn-ctf-plat.md)
 2. [Wargames & Terminal Skills](./resources/wargames-terminal.md)
 3. [Blue Team & System Hardening](./resources/Blue-Team-System-Hardening.md)
-4. [Web Application Security](#4-web-application-security)
+4. [Web Application Security](./resources/Web-Application-Security.md)
 5. [Reverse Engineering & Binary Exploitation](#5-reverse-engineering--binary-exploitation)
 6. [Cryptography](#6-cryptography)
 7. [Vulnerable VMs & Offline Labs](#7-vulnerable-vms--offline-labs)
@@ -10,16 +10,6 @@
 9. [Communities](#9-communities)
 
 ---
-
-### 5. Reverse Engineering & Binary Exploitation
-*Focuses on decompiling software, analyzing malware, and memory corruption exploits.*
-
-* **[Pwn College](https://pwn.college/)** - An education platform for binary exploitation run by Arizona State University.
-* **[Crackmes.one](https://crackmes.one/)** - A repository of "crackmes" (programs you must reverse engineer).
-* **[Flare-On](https://flare-on11.ctfd.io/)** - The toughest Reverse Engineering challenge of the year (by Mandiant).
-* **[Challenges.re](https://challenges.re/)** - A massive collection of reverse engineering challenges.
-* **[Exploit Exercises](https://exploit-exercises.com/)** - Virtual machines geared towards privilege escalation and memory corruption.
-* **[Guy in a Tuxedo](https://github.com/guyinatuxedo)** - Extensive tutorials on binary exploitation (pwn).
 
 ### 6. Cryptography
 *Pure math and code-breaking challenges.*
