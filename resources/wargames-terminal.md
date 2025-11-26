@@ -1,4 +1,7 @@
 ### Wargames & Terminal Skills
+
+[← Back to Main Index](../README.md)
+
 *Resources requiring SSH access and command line proficiency to solve levels.*
 
 * **[SadServers](https://sadservers.com/)** - Interactive troubleshooting and debugging challenges for Linux servers.
