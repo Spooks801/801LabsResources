@@ -1,4 +1,7 @@
-### Comprehensive Learning & CTF Platforms
+# Comprehensive Learning & CTF Platforms
+
+[← Back to Main Index](../README.md)
+
 *Platforms offering a mix of web, forensics, crypto, and binary challenges, often with gamified progression.*
 
 * **[TryHackMe](https://tryhackme.com/)** - Beginner-friendly, guided learning paths (Red and Blue team) and virtual rooms.
