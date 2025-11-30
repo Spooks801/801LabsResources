@@ -1,9 +1,9 @@
 ## 801 Labs Community Resources
-Thanks for checking out the community resources! If you're not already apart of our community please checkout our [discord](https://discord.gg/uRSthurdPY). If you've got a resource that's worth sharing please fork the repository, make your change, and make a pull request back to this repository. 
+Thanks for checking out the community resources! If you're not already apart of our community please checkout our [discord](https://discord.gg/uRSthurdPY). Come join us for our community events found on our discord or [Meetup](https://www.meetup.com/801labs/)! If you've got a resource that's worth sharing please fork the repository, make your change, and make a pull request back to this repository. 
 
 ### Table of Contents
 1. [801 Community Resources](./resources/801-community-resources.md)
-2.  [Comprehensive Learning & CTF Platforms](./resources/comp-learn-ctf-plat.md)
+2. [Comprehensive Learning & CTF Platforms](./resources/comp-learn-ctf-plat.md)
 3. [Wargames & Terminal Skills](./resources/wargames-terminal.md)
 4. [Blue Team & System Hardening](./resources/Blue-Team-System-Hardening.md)
 5. [Web Application Security](./resources/Web-Application-Security.md)
