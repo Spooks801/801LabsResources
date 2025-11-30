@@ -7,7 +7,7 @@
 ### Software
 * Splunk ES and SOAR platform
 * AWS
-* ["HackTheBox"](https://discord.com/events/690230523615772736/1392606976768475238) - Anyone who is interested in cybersecurity and penetration testing should attend. The purpose of the meetup is to meet other infosec enthusiasts, discuss, exchange knowledge regarding cybersecurity, hack machines from HackTheBox dedicated to this gathering, and enjoy.  Class is every other Wednesday exclusively at 801Labs.
+* [HackTheBox](https://discord.com/events/690230523615772736/1392606976768475238) - Anyone who is interested in cybersecurity and penetration testing should attend. The purpose of the meetup is to meet other infosec enthusiasts, discuss, exchange knowledge regarding cybersecurity, hack machines from HackTheBox dedicated to this gathering, and enjoy.  Class is every other Wednesday exclusively at 801Labs.
 * /*A future project of having a simulation environment*
 
 ### Hardware
