@@ -11,6 +11,7 @@
 * **[CTFlearn](https://ctflearn.com/)** - A user-contributed database of challenges across all categories.
 * **[Hacksplaining](https://hacksplaining.com/lessons)** - Concise, visual lessons on security vulnerabilities.
 * **[LegitBS](https://legitbs.net/)** - Home of the team that organizes the DefCon CTF.
+* **[Elastic Training](https://www.elastic.co/training)** - Unlock the full potential of Elastic. Gain the skills to address any use case through expert-led training, interactive labs, comprehensive certification programs, and flexible on-demand learning.
 
 ### CTF Platforms
 * **[Hack The Box CTF](https://ctf.hackthebox.com/)** - Massive platform for pentesting labs and CTF challenges (Intermediate/Advanced).
